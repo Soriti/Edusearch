@@ -16,4 +16,13 @@
     "url": "https://www.ui.edu.ng/"
 
   }
+   {
+    "_id": "003",
+    "name": "Addis Ababa University",
+    "abbr": "AAU",
+    "description": "+45,000",
+    "date": "2019/2020",
+    "url": "https://www.aau.edu.et/"
+
+  }
 ]
